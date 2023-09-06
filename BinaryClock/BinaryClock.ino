@@ -1,5 +1,5 @@
 //program to create a binary counter using LEDs
-//originally only did 0-15, changed code to allow for a fifth lED, counts from 0-31 now
+//originally only did 0-15, changed code to allow for a fifth LED, counts from 0-31 now
 int redLED = 10;
 int blueLED = 9;
 int greenLED = 8;
